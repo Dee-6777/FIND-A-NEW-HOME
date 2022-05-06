@@ -11,6 +11,7 @@ Python, Pandas, Matplotlib, Streamlit, Sklearn, Seaborn, Numpy
 
 # ABOUT
 ![Screenshot (370)](https://user-images.githubusercontent.com/73513838/164440654-e20a7733-759f-4abd-9783-2eaca2c0cafb.png)
+
 ## Authors
 
 - [@DeeptimayeeMaharana](https://github.com/Dee-6777)
