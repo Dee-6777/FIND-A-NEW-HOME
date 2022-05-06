@@ -1,7 +1,7 @@
 
 ## Tech Stack
 
-Python, Pandas, Matplotlib, Streamlit, Sklearn, Seaborn 
+Python, Pandas, Matplotlib, Streamlit, Sklearn, Seaborn, Numpy
 
 
 ## PREVIEV OF THE WEBSITE
