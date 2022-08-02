@@ -1,4 +1,4 @@
-#PROJECT BRIEF
+# PROJECT BRIEF
 This web-app is created for people who are facing problems in finding a suitable home of their choice. Here they can predict the prices and contribute the price of a house according to their experience. The data of this web-app is new and updated and corresponds to the latest market prices. 
 
 # LINK
