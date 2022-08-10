@@ -8,7 +8,7 @@ https://newhomepredicions.herokuapp.com/
 Python, Pandas, Matplotlib, Streamlit, Sklearn, Seaborn, Numpy
 
 
-# PREVIEW OF THE WEBSITE
+# PREVIEW OF THE WEB-APP
 
 ## HOME
 ![Screenshot (369)](https://user-images.githubusercontent.com/73513838/164440842-89d28534-b595-40cb-875a-06efa6008f33.png)
