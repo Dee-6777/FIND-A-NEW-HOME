@@ -3,6 +3,7 @@ This web-app is created for people who are facing problems in finding a suitable
 
 # LINK
 https://newhomepredicions.herokuapp.com/
+(HEROKU NOW IS NOT FREE SO THE HOSTED APPS ARE NOT WORKING AND WE NEED UPGRADATION)
 
 # Tech Stack
 Python, Pandas, Matplotlib, Streamlit, Sklearn, Seaborn, Numpy
